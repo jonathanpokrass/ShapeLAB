@@ -1,4 +1,4 @@
-Please site:
+Please cite:
 
 @article{pokrass2013sparse,
   title={Sparse modeling of intrinsic correspondences},
@@ -10,3 +10,23 @@ Please site:
   year={2013},
   publisher={Wiley Online Library}
 }
+
+@article{pokrass2013partial,
+  title={Partial Shape Matching Without Point-Wise Correspondence.},
+  author={Pokrass, Jonathan and Bronstein, Alexander M and Bronstein, Michael M},
+  journal={Numerical Mathematics: Theory, Methods \& Applications},
+  volume={6},
+  number={1},
+  year={2013}
+}
+
+@incollection{pokrass2012correspondence,
+  title={A correspondence-less approach to matching of deformable shapes},
+  author={Pokrass, Jonathan and Bronstein, Alexander M and Bronstein, Michael M},
+  booktitle={Scale Space and Variational Methods in Computer Vision},
+  pages={592--603},
+  year={2012},
+  publisher={Springer}
+}
+
+
